@@ -6,3 +6,6 @@ This page is intended to provide information and the source code of an implement
 
 For more information please open a Issue in this repository.
 
+Att. Luiz Oliveira
+lfoliveira at cos.ufrj.br
+
